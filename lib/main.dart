@@ -109,7 +109,21 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: _incrementCounter,
         tooltip: 'Increment',
         child: const Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+      ),
     );
   }
 }
+
+
+//floatingActionButton(if i << extension on Type {
+  //ReturnType operator ReturnType(Type other) {
+    //expect (find.final EC = TextEditingController(
+      //findstwowidget,
+     // abstract class Main {
+     // await implementor.pump(
+        // DigiOats mobile implementor line 
+      //);
+     // }
+    //);)
+  //}
+//}),
