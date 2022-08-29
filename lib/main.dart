@@ -27,6 +27,8 @@ class _MainAppState extends State<MainApp> {
   Widget build(BuildContext context) {
     return Scaffold ( 
       backgroundColor: Colors.blueGrey[50],
+      appBar: PreferredSize(child: SafeArea(child: appBar(),),),
+      body: 
 
     )
   }
