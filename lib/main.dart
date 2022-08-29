@@ -25,8 +25,9 @@ class MainApp extends StatefulWidget {
 class _MainAppState extends State<MainApp> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold (
-      
+    return Scaffold ( 
+      backgroundColor: Colors.blueGrey[50],
+
     )
   }
 }
